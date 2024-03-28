@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "nonebot-plugin-guild-patch"
+name = "nonebot-plugin-guild-patch-remix"
 version = "0.2.3"
 description = "Patch plugin for NoneBot2 QQ guild (go-cqhttp) support."
 authors = ["Mix <mnixry@users.noreply.github.com>"]
 license = "MIT"
 packages = [{ include = 'nonebot_plugin_guild_patch' }]
 readme = "README.md"
-repository = "https://github.com/mnixry/nonebot-plugin-guild-patch"
+repository = "https://github.com/zhzhongshi/nonebot-plugin-guild-patch-remix"
 
 [tool.poetry.dependencies]
 python = "^3.9"
